@@ -63,7 +63,7 @@ egg = {
                 },
             }
         },
-        "startup": {"done": "Hole punching ready"},
+        "startup": {"done": "Online: players join at"},
         "logs": {},
         "stop": "^C",
     },
